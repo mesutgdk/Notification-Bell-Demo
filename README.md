@@ -1,5 +1,6 @@
 # Notification-Bell-Demo!
-
+I try to show the mechanics behind how the animation actually works, 
+come on try, enjoy and +learn, i am sure you will like it!
 
 ## A tappable Bell
 
